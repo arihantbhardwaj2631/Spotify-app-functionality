@@ -1,2 +1,3 @@
 # Spotify-app-functionality
-A song app - with name and logo of Spotify
+A web-application which can play songs 
+![spotify bg](https://github.com/arihantbhardwaj2631/Spotify-app-functionality/assets/90868557/61a99aef-7291-474a-b7a9-b5866309c832)
